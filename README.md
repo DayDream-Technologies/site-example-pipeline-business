@@ -1,2 +1,3 @@
-# site-example-pipeline-business
-Generated website for Example Domain
+# Example Domain
+
+Generated static website published by website-redesign-agent.
